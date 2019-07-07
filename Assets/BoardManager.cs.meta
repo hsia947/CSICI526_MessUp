@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 87bf0936d1c53cd4bb7de5b90a869f5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - binAText: {instanceID: 0}
+  - binBText: {instanceID: 0}
+  - binCText: {instanceID: 0}
+  - binDText: {instanceID: 0}
+  - binEText: {instanceID: 0}
+  - CountDownText: {instanceID: 0}
+  - scene: {instanceID: 0}
+  - PauseText: {instanceID: 0}
+  - LevelText: {instanceID: 0}
+  - rainBowDot: {instanceID: 0}
+  - tilePreFab: {instanceID: 0}
+  - cRed: {fileID: 2100000, guid: 5a88da3341b38af4aac27c5c958e9c29, type: 2}
+  - cYellow: {fileID: 2100000, guid: 9f6907926bc5fca4dbdfa62cff86504f, type: 2}
+  - cGreen: {fileID: 2100000, guid: cca33cd440493b848a6692279957139d, type: 2}
+  - cBlue: {fileID: 2100000, guid: 5fcbe1e39b1b3b94999b5865cb39f61c, type: 2}
+  - cPurple: {fileID: 2100000, guid: c22ca73eb824a8b4198cd9f5b74c6e81, type: 2}
+  - cWhite: {fileID: 2100000, guid: efcfcc3d55e2cad43b74d1205a0556e3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
