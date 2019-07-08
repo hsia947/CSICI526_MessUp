@@ -25,6 +25,8 @@ dot-Mobility- the magic dot can be moved around in the board, but only once.
 Adaptability- can be matched with dot of any other color. 
 Matching 2 or more magic dots will eliminate all the dots in the corresponding rows and columns. The bins will countdown to the number of each coloured dot present in those rows and columns.
 
+## Demo link
+https://www.youtube.com/watch?v=WksvLLXZvMA&feature=youtu.be
 
 
 
